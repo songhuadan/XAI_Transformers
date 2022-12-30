@@ -18,3 +18,9 @@ $ python /sst2/run_sst.py
   * These pickle files can be loaded inside the notebook "paper_plots" to generate the pertubation plots reported in the paper. <br>
 - For IMDB dataset, the starting code can be found at /imdb/run_imdb.py
   * Follow the same instructions of SST-2 dataset above.
+
+# XAI - Transformer
+
+## notebook:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/songhuadan/XAI_Transformers/blob/main/run_sst.ipynb)
+ 
